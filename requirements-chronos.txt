@@ -1,0 +1,2 @@
+-r requirements.txt
+chronos-forecasting>=2.0

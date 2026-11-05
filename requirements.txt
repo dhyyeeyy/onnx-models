@@ -5,5 +5,5 @@ pyyaml
 rich
 loguru
 pytest
-
 huggingface_hub
+onnxruntime
